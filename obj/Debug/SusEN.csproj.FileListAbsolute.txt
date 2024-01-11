@@ -1,0 +1,72 @@
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\bin\Debug\SusEN.exe.config
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\bin\Debug\SusEN.exe
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\bin\Debug\SusEN.pdb
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.AssemblyReference.cache
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.Home.resources
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.Properties.Resources.resources
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.GenerateResource.cache
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.CoreCompileInputs.cache
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.exe
+C:\Users\xxmig\OneDrive\Desktop\SusEN\SusEN\obj\Debug\SusEN.pdb
+D:\SusEN\SusEN\bin\Debug\SusEN.exe.config
+D:\SusEN\SusEN\bin\Debug\SusEN.exe
+D:\SusEN\SusEN\bin\Debug\SusEN.pdb
+D:\SusEN\SusEN\obj\Debug\SusEN.csproj.AssemblyReference.cache
+D:\SusEN\SusEN\obj\Debug\SusEN.Home.resources
+D:\SusEN\SusEN\obj\Debug\SusEN.Properties.Resources.resources
+D:\SusEN\SusEN\obj\Debug\SusEN.csproj.GenerateResource.cache
+D:\SusEN\SusEN\obj\Debug\SusEN.csproj.CoreCompileInputs.cache
+D:\SusEN\SusEN\obj\Debug\SusEN.exe
+D:\SusEN\SusEN\obj\Debug\SusEN.pdb
+D:\SusEN\SusEN\obj\Debug\SusEN.SusEN.resources
+C:\Users\xxmig\Desktop\SusEN\SusEN\bin\Debug\SusEN.exe.config
+C:\Users\xxmig\Desktop\SusEN\SusEN\bin\Debug\SusEN.exe
+C:\Users\xxmig\Desktop\SusEN\SusEN\bin\Debug\SusEN.pdb
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.AssemblyReference.cache
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.Home.resources
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.Properties.Resources.resources
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.SusEN.resources
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.GenerateResource.cache
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.csproj.CoreCompileInputs.cache
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.exe
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.pdb
+C:\Users\xxmig\Desktop\SusEN\SusEN\obj\Debug\SusEN.Recipe.resources
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\bin\Debug\SusEN.exe.config
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\bin\Debug\SusEN.exe
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\bin\Debug\SusEN.pdb
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.csproj.AssemblyReference.cache
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.Home.resources
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.Properties.Resources.resources
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.Recipe.resources
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.SusEN.resources
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.csproj.GenerateResource.cache
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.csproj.CoreCompileInputs.cache
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.exe
+C:\Users\abreu\OneDrive\Ambiente de Trabalho\SusEN\SusEN\obj\Debug\SusEN.pdb
+C:\Users\xxmig\Documents\SusEN\SusEN\bin\Debug\SusEN.exe.config
+C:\Users\xxmig\Documents\SusEN\SusEN\bin\Debug\SusEN.exe
+C:\Users\xxmig\Documents\SusEN\SusEN\bin\Debug\SusEN.pdb
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.csproj.AssemblyReference.cache
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.Home.resources
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.Properties.Resources.resources
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.Recipe.resources
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.SusEN.resources
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.csproj.GenerateResource.cache
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.csproj.CoreCompileInputs.cache
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.exe
+C:\Users\xxmig\Documents\SusEN\SusEN\obj\Debug\SusEN.pdb
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\bin\Debug\SusEN.exe.config
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\bin\Debug\SusEN.exe
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\bin\Debug\SusEN.pdb
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.csproj.AssemblyReference.cache
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.Home.resources
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.Properties.Resources.resources
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.Recipe.resources
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.SusEN.resources
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.csproj.GenerateResource.cache
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.csproj.CoreCompileInputs.cache
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.exe
+C:\Users\xxmig\Documents\Code\SusEN\SusEN\obj\Debug\SusEN.pdb

@@ -1,0 +1,34 @@
+﻿SusEN Change Log
+
+1.0
+Base Version
+
+1.1
+Added Password Meter
+Added Username and Password requirements information
+Added completed password requirements checker
+Saved purchased recipes per account
+Removed Visual Styles
+Added game level 3 behavior/mechanic
+
+1.2
+Added Information Tab
+Added BMI Calculator
+Added Helpers in all Tabs
+Improved Main Menu
+
+1.3
+Added Admin Version
+Admin Password Encrypted
+Any Account can be promoted to Admin within the program run-time
+Option to Abandon Admin stasus within the program run-time
+Updated all Replaces with Interpolated Strings
+
+1.4
+Admin Accounts can now revoke and get refund of recipes purchases
+Generalized the recipe purchasing process
+
+1.5
+Improved performance of the game by removing all possible code from the main loop function
+Removed all mouse move events from each food picturebox
+Replaced all constant value expressions for it's value
